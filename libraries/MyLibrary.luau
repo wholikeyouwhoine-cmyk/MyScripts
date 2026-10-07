@@ -152,7 +152,7 @@ bar.BorderSizePixel = 0
 bar.Position = UDim2.new(0, 0, 0, 5) 
 bar.Size = UDim2.new(1, 0, 0, 15) 
 
--- โลโก้อันบนถูกเปลี่ยนเป็น ID: 101520457706942 และรองรับ UIGradient
+-- อัปเดตโลโก้อันบนเป็นไอดี 101520457706942 และใส่ UIGradient รองรับตลอดเวลา
 toggle.Name = "Toggle" 
 toggle.Parent = bar 
 toggle.BackgroundColor3 = Color3.new(1, 1, 1) 
